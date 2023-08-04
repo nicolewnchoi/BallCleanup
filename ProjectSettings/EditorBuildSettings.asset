@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MostBalls/Tutorials/Instructions.unity
+    guid: 1abd9b5f3623b51488d3f92bed36276d
+  - enabled: 1
+    path: Assets/Scenes/MostBalls/Tutorials/CircleDemo.unity
+    guid: 47f968936a0fed840bbb9a3d5c50037a
+  - enabled: 1
+    path: Assets/Scenes/MostBalls/Tutorials/SquareDemo.unity
+    guid: 3f25524c1005acd42b93429bf77d8242
+  - enabled: 1
+    path: Assets/Scenes/MostBalls/Tutorials/StarDemo.unity
+    guid: b3d412c1120806d4dad81d9b776ec01c
+  - enabled: 1
+    path: Assets/Scenes/MostBalls/Tutorials/NumberOfBalls.unity
+    guid: 4c5a559ad82870c43b4aeb6e75875e61
+  - enabled: 1
+    path: Assets/Scenes/MostBalls/Stages/CircleStage.unity
+    guid: 19190e3ca79b3a84e9ba0037d562695d
+  - enabled: 1
+    path: Assets/Scenes/MostBalls/Stages/SquareStage.unity
+    guid: e5234008960fb2f4fad348aa37ba5288
+  - enabled: 1
+    path: Assets/Scenes/MostBalls/Stages/StarStage.unity
+    guid: a953398c0ca378d43a16803ac9a6476c
+  m_configObjects: {}
